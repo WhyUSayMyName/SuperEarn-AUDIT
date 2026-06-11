@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Reviewer** | `<your name / handle>` |
+| **Reviewer** | `WhyUSayMyName` |
 | **Review type** | Independent security review (manual + dynamic PoC) |
 | **Target** | SuperEarn Core — public source release |
 | **Commit / source** | `github.com/superearn-io/superearn-core-public` |
