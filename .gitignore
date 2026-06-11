@@ -1,0 +1,17 @@
+# Foundry
+out/
+cache/
+broadcast/
+
+# Dependencies (restored via `forge install` / `npm install`)
+node_modules/
+lib/
+
+# Foundry build artifacts
+*.bin
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp

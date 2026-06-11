@@ -1,0 +1,2 @@
+{ "name": "superearn-poc", "private": true,
+  "dependencies": { "@openzeppelin/contracts-upgradeable-4.9.4": "npm:@openzeppelin/contracts-upgradeable@4.9.4" } }
